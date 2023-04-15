@@ -1,12 +1,25 @@
-## Hi there 👋
+<!-- PROJECT LOGO -->
+<div align="center">
+<img src="https://cdn.discordapp.com/attachments/822309850700054548/1096753669531250708/afbbc284a5019bb3.png" alt="Logo"> 
+  <h1>DoEat을 더 편리하게 HoEat</h1>
 
-<!--
+</div>
 
-**Here are some ideas to get you started:**
+<!-- TABLE OF CONTENTS -->
+<details align="right">
+  <summary>Table of Contents</summary>
+    <div><a href="#프로젝트-소개">프로젝트 소개</a></div>
+    <div><a href="#멤버-소개">멤버 소개</a></div>
+    <div><a href="#기술-스택">기술 스택</a></div>
+</details>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 프로젝트 소개
+
+### 서비스 이름 : 🥘 호잇 (HoEat) 🌃
+
+> Doeat 어플에 기능등을 개선해본 프로젝트 입니다!
+
+- **서비스 개선한 기능**<br/>
+  1️⃣ SNS 로그인 - kakao 뿐만 아니라 구글도 추가하여 사용자들이 보다 더 쉽게 회원가입을 할 수 있습니다.<br/>
+  2️⃣ 진짜 옳게된 맛집 추천 서비스 - 입점추천 글과 일반 글과 분리하여 1위, 2위, 3위에 입점추천 서비스에 추가한다.<br/>
