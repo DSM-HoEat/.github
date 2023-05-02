@@ -16,7 +16,7 @@
 
 ## 프로젝트 소개
 
-### 서비스 이름 : 🥘 호잇 (HoEat) 🌃
+### 서비스 이름 : 🥘 호잇 (HoEat) 🥘
 
 > Doeat 어플에 기능등을 개선해본 프로젝트 입니다!
 
@@ -24,3 +24,30 @@
   1️⃣ SNS 로그인 - kakao 뿐만 아니라 구글도 추가하여 사용자들이 보다 더 쉽게 회원가입을 할 수 있습니다.<br>
   2️⃣ 투표 취소 - 투표를 하기 싫은 사용자들이 있을 거라 생각합니다. 그래서 저희는 투표 취소를 만들어 한번 눌러도 투표를 취소할 수 있게 만들었습니다.<br>
   3️⃣ 자체 로그인, 회원가입 - 몇몇 사용자들중 SNS로그인 보다 자체 회원가입을 선호하는 사용자들이 있을 거라 생각해 SNS로그인과 자체 로그인이라는 선택지를 만들 었습니다.<br>
+
+## 멤버 소개
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/biscrab">
+        <img src="https://avatars.githubusercontent.com/u/77564428" width="100px;" alt="" /><br>
+        <sub>
+          <b>이상운</b><br>
+          <b>디자이너, 프론트엔드</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/beargame123">
+        <img src="https://avatars.githubusercontent.com/u/81502235" width="100px;" alt="" /><br>
+        <sub>
+          <b>김호영</b><br>
+          <b>백엔드</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
